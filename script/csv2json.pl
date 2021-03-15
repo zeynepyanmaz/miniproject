@@ -10,14 +10,19 @@ my $people = [];
 my $file = $ARGV[0] or die "Please specify a CSV file as the argument to this script.";
 
 # Read the CSV and make our person structures
-my $csv = Text::CSV->new({binary => 1});
+my $csv = Text::CSV->new({binary => 1, allow_loose_quotes => 1}) or die Text::CSV->error_diag();
 open my $fh, "<:encoding(utf8)", $file or die "Error reading $file: $!";
 while (my $row = $csv->getline($fh)) {
     my @date = split(/\s+/, $row->[0]);
-    my @name = split(/\|/, $row->[1]);
-    print STDERR "@name\n";
+	my $namefield = $row->[1];
+	$namefield =~ s/^\s+//;
+    my @name = split(/\|/, $namefield);
+    # print STDERR "@name\n";
     my $desc = $row->[2];
+	$desc =~ s/\"//g;
+	$desc =~ s/^\s+//;
     my $born = $row->[3];
+	$born =~ s/^\s+//;
     my $link = $name[0];
     $link =~ s/\s+/_/g;
     my $person = {

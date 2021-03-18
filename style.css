@@ -60,10 +60,10 @@ table {
     width: 80%;
     font-size: 16px;
     line-height: 35px;
-    color: white;
+    color: black;
     text-align: center;
     margin: 32px 0px 30px 0px;
-    background: #a52f6a;
+    background: #f9ead2;
     box-shadow: 0 6px 12px rgb(0 0 0 / 20%);
     border-collapse: collapse;
 }

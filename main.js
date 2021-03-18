@@ -1,6 +1,6 @@
 // The below code fetches the .json data using a HTTP GET request
 // Define our data source as JSON file
-var sourceURL = 'file:///Users/zeynep/miniproject/data/deaths.json';
+var sourceURL = '/data/deaths.json';
 // Fetch API: https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch
 fetch(sourceURL)
   .then(function (response) {

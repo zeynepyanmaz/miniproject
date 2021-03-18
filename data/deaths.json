@@ -1,13 +1,5 @@
 [
    {
-      "name" : null,
-      "profession" : null,
-      "link" : "https://en.wikipedia.org/wiki/",
-      "birthyear" : null,
-      "day" : null,
-      "month" : null
-   },
-   {
       "day" : "2",
       "month" : "January",
       "birthyear" : "1918",

@@ -49,9 +49,9 @@
    },
    {
       "name" : "David Nelson",
-      "profession" : "American actor",
+      "profession" : "American actor director and producer",
       "link" : "https://en.wikipedia.org/wiki/David_Nelson",
-      "birthyear" : "director and producer",
+      "birthyear" : "1936",
       "day" : "11",
       "month" : "January"
    },
@@ -72,12 +72,12 @@
       "link" : "https://en.wikipedia.org/wiki/Susannah_York"
    },
    {
-      "profession" : "American diplomat",
+      "profession" : "American diplomat politician and activist",
       "link" : "https://en.wikipedia.org/wiki/Sargent_Shriver",
       "name" : "Sargent Shriver",
       "day" : "18",
       "month" : "January",
-      "birthyear" : "politician"
+      "birthyear" : "1915"
    },
    {
       "birthyear" : "1938",
@@ -89,18 +89,18 @@
    },
    {
       "name" : "Bernd Eichinger",
-      "profession" : "German film producer",
+      "profession" : "German film producer director and screenwriter",
       "link" : "https://en.wikipedia.org/wiki/Bernd_Eichinger",
-      "birthyear" : "director and screenwriter",
+      "birthyear" : "1949",
       "day" : "24",
       "month" : "January"
    },
    {
-      "birthyear" : "lead singer and founder of The Marvelettes",
+      "birthyear" : "1945",
       "day" : "26",
       "month" : "January",
       "name" : "Gladys Horton",
-      "profession" : "American singer",
+      "profession" : "American singer lead singer and founder of The Marvelettes",
       "link" : "https://en.wikipedia.org/wiki/Gladys_Horton"
    },
    {
@@ -368,20 +368,20 @@
       "name" : "Farley Granger"
    },
    {
-      "birthyear" : "23rd Vice President of Brazil",
+      "birthyear" : "1931",
       "month" : "March",
       "day" : "29",
       "name" : "José Alencar",
       "link" : "https://en.wikipedia.org/wiki/José_Alencar",
-      "profession" : "Brazilian politician"
+      "profession" : "Brazilian politician 23rd Vice President of Brazil"
    },
    {
       "link" : "https://en.wikipedia.org/wiki/Juliano_Mer-Khamis",
-      "profession" : "Israeli actor",
+      "profession" : "Israeli actor director filmmaker and political activist",
       "name" : "Juliano Mer-Khamis",
       "month" : "April",
       "day" : "4",
-      "birthyear" : "director"
+      "birthyear" : "1958"
    },
    {
       "day" : "4",
@@ -746,8 +746,8 @@
    {
       "name" : "Patrick Leigh Fermor",
       "link" : "https://en.wikipedia.org/wiki/Patrick_Leigh_Fermor",
-      "profession" : "British travel writer",
-      "birthyear" : "scholar",
+      "profession" : "British travel writer scholar and soldier",
+      "birthyear" : "1915",
       "month" : "June",
       "day" : "10"
    },
@@ -840,12 +840,12 @@
       "name" : "Roberts Blossom"
    },
    {
-      "profession" : "American feminist",
+      "profession" : "American feminist activist philanthropist and  First Lady of the United States",
       "link" : "https://en.wikipedia.org/wiki/Betty_Ford",
       "name" : "Betty Ford",
       "day" : "8",
       "month" : "July",
-      "birthyear" : "activist"
+      "birthyear" : "1918"
    },
    {
       "name" : "Facundo Cabral",
@@ -874,9 +874,9 @@
    {
       "month" : "July",
       "day" : "15",
-      "birthyear" : "politician",
+      "birthyear" : "1928",
       "link" : "https://en.wikipedia.org/wiki/Friedrich_Wilhelm_Schnitzler",
-      "profession" : "German landowner",
+      "profession" : "German landowner politician and businessman",
       "name" : "Friedrich Wilhelm Schnitzler"
    },
    {
@@ -1066,8 +1066,8 @@
    {
       "day" : "22",
       "month" : "August",
-      "birthyear" : "comedian",
-      "profession" : "German actor",
+      "birthyear" : "1923",
+      "profession" : "German actor comedian and film director",
       "link" : "https://en.wikipedia.org/wiki/Loriot",
       "name" : "Vicco von Bülow"
    },
@@ -1210,8 +1210,8 @@
    {
       "name" : "Sylvia Robinson",
       "link" : "https://en.wikipedia.org/wiki/Sylvia_Robinson",
-      "profession" : "American singer",
-      "birthyear" : "musician",
+      "profession" : "American singer musician and record producer",
+      "birthyear" : "1935",
       "month" : "September",
       "day" : "29"
    },
@@ -1289,9 +1289,9 @@
    },
    {
       "name" : "Jagjit Singh",
-      "profession" : "Indian singer",
+      "profession" : "Indian singer composer and musician",
       "link" : "https://en.wikipedia.org/wiki/Jagjit_Singh",
-      "birthyear" : "composer and musician",
+      "birthyear" : "1914",
       "day" : "10",
       "month" : "October"
    },
@@ -1322,9 +1322,9 @@
    {
       "month" : "October",
       "day" : "18",
-      "birthyear" : "director and producer",
+      "birthyear" : "1910",
       "link" : "https://en.wikipedia.org/wiki/Norman_Corwin",
-      "profession" : "American radio writer",
+      "profession" : "American radio writer director and producer",
       "name" : "Norman Corwin"
    },
    {
@@ -1346,7 +1346,7 @@
    {
       "day" : "22",
       "month" : "October",
-      "birthyear" : "",
+      "birthyear" : "1930",
       "profession" : "Crown Prince of Saudi Arabia",
       "link" : "https://en.wikipedia.org/wiki/Sultan",
       "name" : "Sultan"
@@ -1384,12 +1384,12 @@
       "month" : "October"
    },
    {
-      "profession" : "English DJ",
+      "profession" : "English DJ and television presenter",
       "link" : "https://en.wikipedia.org/wiki/Jimmy_Savile",
       "name" : "Jimmy Savile",
       "day" : "29",
       "month" : "October",
-      "birthyear" : "television presenter"
+      "birthyear" : "1926"
    },
    {
       "name" : "Flórián Albert",
@@ -1434,9 +1434,9 @@
    {
       "month" : "November",
       "day" : "8",
-      "birthyear" : "rapper",
+      "birthyear" : "1967",
       "link" : "https://en.wikipedia.org/wiki/Heavy_D",
-      "profession" : "Jamaican-born American actor",
+      "profession" : "Jamaican-born American actor and rapper",
       "name" : "Heavy D"
    },
    {
@@ -1673,7 +1673,7 @@
    },
    {
       "name" : "Václav Havel",
-      "profession" : "Czech playwright",
+      "profession" : "1936",
       "link" : "https://en.wikipedia.org/wiki/Václav_Havel",
       "birthyear" : "10th President of Czechoslovakia and 1st President of the Czech Republic",
       "day" : "18",
